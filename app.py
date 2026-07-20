@@ -1,6 +1,4 @@
 import streamlit as st
-import time
-import seaborn as sns
 
 st.set_page_config (page_title="Gymkhaana", page_icon=":tree:",layout="wide")
 st.title("Welcome to Gymkhana Club")
